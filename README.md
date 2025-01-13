@@ -1,10 +1,8 @@
-# waveform.alanwsmith.com
+# HTML Template
 
-A basic wave form generator designed to
-work with a mic for making screen
-recordings of.
+This is my starting HTML template and
+supporting files that I drop in to create
+a new site. 
 
-
-
-
+examples at: [links.alanwsmith.com](https://links.alanwsmith.com/)
 
